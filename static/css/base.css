@@ -1,0 +1,10 @@
+.img-preview{
+    width:400px;
+    margin: 5px 5px;
+    box-shadow: 2px 2px 1px;
+}
+
+h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
